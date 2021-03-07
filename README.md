@@ -1,3 +1,4 @@
 # SFFonts
 SF & NY Fonts OpenType And TrueType  
-Apple Fonts: https://developer.apple.com/fonts/
+Apple Fonts: https://developer.apple.com/fonts/  
+JapaneseAppleFonts is Japanese San Francisco Fonts
