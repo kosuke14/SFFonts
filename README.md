@@ -1,2 +1,2 @@
 # SFFonts
-SF &amp; NY Fonts OpenType
+SF &amp; SF & NY Fonts OpenType And TrueType
